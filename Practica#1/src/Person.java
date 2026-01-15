@@ -35,9 +35,31 @@ public class Person {
 
     }
 
+    public void setPetManager(PetManager petManager){
+
+        this.petManager = petManager;
+        
+    }
+
+    public Pet[] getPets(){
+
+        return petManager.getPets();
+
+    }
+
 
     public boolean addPet(Pet pet){
         return petManager.addPet(pet);
+    }
+
+    public boolean removePet(Pet pet){
+
+        return petManager.removePet(pet);
+    }
+
+    public boolean updatePets(Pet pet, int j){
+
+        return petManager.updatePets(pet, j);
     }
 
 
