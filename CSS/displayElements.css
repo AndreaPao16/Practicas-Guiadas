@@ -1,0 +1,18 @@
+.display{
+
+    display: none;
+}
+
+.flex{
+
+    display: flex;
+
+    flex-direction: row;
+}
+
+
+.inline-flex{
+    
+    display: inline-flex;
+    flex-direction: column;
+}

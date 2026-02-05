@@ -1,0 +1,30 @@
+.caja {
+
+    width: 200px;
+    height: 200px;
+    background-color: rgb(29, 120, 168);
+
+    font-family: "Rye", serif;
+
+}
+
+.greenBox{
+
+    width: 200px;
+    height: 200px;
+    background-color: rgb(142, 200, 106);
+}
+
+.blueBox{
+
+    width: 200px;
+    height: 200px;
+    background-color: rgb(32, 87, 121);
+}
+
+.blackBox{
+
+    width: 200px;
+    height: 200px;
+    background-color: rgb(0, 0, 0);
+}

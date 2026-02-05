@@ -1,0 +1,23 @@
+p{
+    color: rgb(120, 24, 24);
+}
+
+.note{
+
+    font-size: 20px;
+}
+
+#id-selector-demo{
+
+    color:rgb(150, 232, 27)
+}
+
+[value="4"]{
+
+    color: rgb(22, 173, 218);
+}
+
+body{
+
+    text-align: center;
+}
